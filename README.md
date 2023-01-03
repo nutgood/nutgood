@@ -4,7 +4,7 @@ I work [@sherweb](https://github.com/sherweb).
 
 Sometimes I may:
 - Define cloud architecture
-- Build scalable, modern cloud automation & orchestration platform
+- Build scalable, modern cloud automation & orchestration platforms
 - Lead teams through massive challenges
 - Build unified tech strategies
 
