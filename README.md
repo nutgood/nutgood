@@ -11,6 +11,6 @@ Sometimes I may:
 ### Things I work with:
 Go | C# | Azure Functions | Azure CosmosDB | VMWARE NSX, CLOUD DIRECTOR | TERRAFORM | PEOPLE 
 
-To see more, go here -> [leca.sh](https://leca.sh)
+To see more, go here -> [leca.sh](https://l.leca.sh/gab)
 
 [C0DFBEDF1C65D8C0](https://github.com/nutgood.gpg)
