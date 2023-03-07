@@ -13,4 +13,4 @@ Go | C# | Azure Functions | Azure CosmosDB | VMWARE NSX, CLOUD DIRECTOR | TERRAF
 
 To see more, go here -> [leca.sh](https://l.leca.sh/gab)
 
-GPG: [C0DFBEDF1C65D8C0](https://github.com/nutgood.gpg)
+GPG: [EE5841DD9AE8A0BB](https://github.com/nutgood.gpg)
